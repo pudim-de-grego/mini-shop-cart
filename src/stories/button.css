@@ -5,17 +5,37 @@
   border-radius: 3em;
   font-weight: 700;
   line-height: 1;
-  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .storybook-button--primary {
   background-color: #1ea7fd;
   color: white;
 }
+
 .storybook-button--secondary {
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
   background-color: transparent;
   color: #333;
 }
+
+.button-addToCart {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+  background-color: #c1ff8f;
+  color: #333;
+}
+
+.button-alreadyInCart {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+  background-color: #fff383;
+  color: #333;
+}
+
+.button-outOfStock {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+  background-color: #ffa7a4;
+  color: #333;
+}
+
 .storybook-button--small {
   padding: 10px 16px;
   font-size: 12px;
