@@ -1,7 +1,7 @@
 import { ProductLine } from "./ProductLine";
 
 export default {
-  title: "Linha de Produto",
+  title: "Componentes/Linha de Produto",
   component: ProductLine,
   tags: ["autodocs"],
   args: {
