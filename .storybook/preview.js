@@ -1,4 +1,5 @@
 import "../src/App.css";
+import "../src/stories/button.css";
 
 /** @type { import('@storybook/react').Preview } */
 const preview = {
