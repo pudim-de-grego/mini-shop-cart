@@ -21,7 +21,7 @@
 .button-addToCart {
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
   background-color: #c1ff8f;
-  color: #333;
+  color: palevioletred;
 }
 
 .button-alreadyInCart {
