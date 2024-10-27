@@ -3,7 +3,7 @@ import { fn } from "@storybook/test";
 import { AddToCartButton } from "./AddToCartButton";
 
 export default {
-  title: "Botão de Adicionar ao Carrinho",
+  title: "Componentes/Botão de Adicionar ao Carrinho",
   component: AddToCartButton,
   args: { onClick: fn() },
   tags: ["autodocs"],
